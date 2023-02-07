@@ -1,8 +1,3 @@
-# utils
-c++封装工具类
-
-## cpp/map_divider/map_divider.h
-```cpp
 #include <functional>
 #include <iostream>
 #include <sstream>
@@ -125,4 +120,3 @@ public:
 
 *******************************************/
 
-```
